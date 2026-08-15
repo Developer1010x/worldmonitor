@@ -1,5 +1,22 @@
 # World Monitor
 
+> ### ⚠️ This is a fork — I am a contributor, not the author
+>
+> **World Monitor is created and maintained by [Elie Habib (@koala73)](https://github.com/koala73)**
+> and ~40 other contributors. Upstream: **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)**.
+> Of 4,938 commits, **zero are mine** — this fork is my working copy for contributing upstream.
+>
+> My actual contribution is one merged pull request:
+> **[koala73/worldmonitor#5459](https://github.com/koala73/worldmonitor/pull/5459)** —
+> *"feat(markets): expandable terminal price chart + fix(dev): OpenSky proxy path"*,
+> merged 2026-07-25 (+892 / −39 across 37 files).
+>
+> If you want to run or star World Monitor, go to
+> **[upstream](https://github.com/koala73/worldmonitor)** — not here. This fork is not kept current
+> and does not yet contain my own merged feature.
+>
+> Licensed AGPL-3.0 by the upstream authors. Badges below point at upstream by design.
+
 [简体中文](README.zh-CN.md)
 
 **Real-time global intelligence dashboard** — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
